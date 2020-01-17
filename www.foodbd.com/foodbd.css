@@ -1,0 +1,652 @@
+/*************************************************
+**********     Desinged by          **************
+**********     Alamgir Amir         **************
+**********     'TOP CIRCLE'         **************
+**********  www.topcirclebd.com     **************
+**************************************************/
+
+*{
+    margin: 0;
+    padding: 0;
+    transition:  all .3s ease;
+}
+
+a{
+    text-decoration: none;
+    color: #000000;
+}
+
+li{
+    list-style-type: none;
+}
+
+
+
+
+
+
+
+
+/*********************************/
+
+
+.fullwrapper{
+    background-color: #ffffff;
+    margin:20px auto;
+    width: 100%;
+    height: 2110px;
+    
+}
+
+.header{
+    width: 1200px;
+    height: 390px;
+    margin: auto;
+}
+
+.topside{
+    width: 1200px;
+    height: 70px;
+    color: #ffffff;
+    background-color: #000;
+    margin: auto;
+
+}
+
+.logo{
+    width: 600px;
+    height: 70px;
+    float: left;
+}
+
+.logo img{
+    width: auto;
+    height: auto;
+    padding: 20px;
+}
+.bay_now{
+    width: 600px;
+    height: 45px; 
+    float: right;
+    margin: 25px 0px 0px 0px;
+}
+.bay-logo{
+    float: left;
+    margin-left: 475px;
+}
+.bay-txt{
+    float: left;
+    padding-left: 10px;
+}
+
+
+
+.menu-scrch-wrp{
+    width: 1200px;
+    height: 60px;   
+}
+.main-menu{
+    width: 550px;
+    height: 50px;
+    float: left;
+}
+
+.main-menu{
+    
+}
+.main-menu ul{
+    height: auto;
+    width: 550px;
+}
+.main-menu ul li{
+    float: left;
+    padding: 20px 15px;
+}
+.main-menu ul li a{
+    text-align: center;
+    color: #000;
+    display: block;
+}
+.main-menu ul li:hover{
+    background-color:  #c4c4c4;
+    color: #ffffff;
+    border-bottom: 3px solid #000;
+}
+
+.main-menu ul li a:hover{
+    color: ffffff;
+}
+
+
+
+
+
+.search-top-wrp{
+    height: 60px;
+    width: 650px;
+    float: left;  
+}
+.tp-srch-box{
+    height: auto;
+    width: 190px;
+    float: left; 
+    margin-top: 20px;
+    border: .5px solid #a5a5a5;
+    border-radius: 5px;
+    margin-left: 320px;
+    
+}
+.tp-srch-box input[type=search]{
+    height: 25px;
+    width: 150px; 
+    border: none;
+    float: left;
+    background-color: #ffffff;
+}
+.search-icon{
+    float: left;
+    padding: 6px 10px 0px 10px;
+   
+}
+.bay-l0go-wrap{
+
+}
+.bay-logo111{
+    height: 50px;
+    width: 50px;
+    float: left;  
+    margin-top: 15px;
+    padding-left: 10px;
+}
+
+.bay-logo2222{
+    height: 50px;
+    width: 50px;
+    float: left;  
+    margin-top: 15px;
+    padding-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.slider{
+    color: #ffffff;
+    width: 1200px;
+    height: 330px;
+    background-image: url(img/designcoz_food.png);
+    background-size: 1200px 330px;
+    
+}
+
+.slide-contn{
+    margin: auto;
+    padding-top: 90px;
+    height: 200px;
+    width:1100px;
+    text-align: center;
+}
+.slide-contn input[type=search]{
+    height: 50px;
+    width: 360px; 
+    border: none;
+}
+
+
+.slide-contn h2{
+    padding: 20px;
+    font-size: 40px;
+    
+}
+
+
+.srch-wrp{
+    height: 50px;
+    width: 440px;
+    margin: auto;
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+.loc-img{
+    height: 24px;
+    width: 24px;
+    margin: auto;
+}
+.location{
+    height: 35px;
+    width: 35px;
+    display: inline;
+    background-color: #ffce71; 
+
+}
+.location img{
+    height: 24px;
+    width: 24px;
+    margin: auto;
+}
+
+.slide-contn p{
+    padding: 10px;
+    font-style: italic;
+}
+
+
+
+
+
+/************end header
+        sratrrtt sectionn***/
+
+.section-wrapper{
+    height: 1450px;
+    width: 1200p ;
+    margin: auto;
+}
+
+.sec1{
+    height: 140px;
+    width: 1200px; 
+    margin: auto;
+}
+.sec1-pic{
+    margin: auto;
+    text-align: center;
+    padding: 50px 0px;
+}
+
+
+
+.sec2{
+    height: 470px;
+    width: 1200px; 
+    padding-bottom: 60px;
+    margin: auto;
+
+}
+
+.sec3{
+    
+}
+
+.for-margin{
+    width: 830px;   
+    height: 2px;
+    float: left;
+    border-bottom: 1px solid #b4b4b4;
+    margin-top: 8px;
+}
+
+
+.heading-sec2{
+    height: 30px;
+    width: 1200px; 
+    padding: 30px 10px;
+}
+
+
+.heading-sec2 h3{
+    height: auto;
+    width: 210px;   
+    float: left;
+    text-transform: uppercase;
+}
+
+.heading-sec2 h4{
+    height: auto;
+    width: 890px;   
+    float: left;    
+}
+
+.view-all{
+    height: auto;
+    width: 100px; 
+    padding: 0px 30px;
+    float: left;
+    font-weight: bold;
+
+}
+.view-all a{
+    color: #ffce71;
+}
+.view-all a:hover{
+    color: #564fff;
+}
+
+.per-box-wrp{
+    margin: auto;
+    height: 350px;
+    width: 265px;
+    float: left;
+    margin: 0px 15px;
+    background-color: #eefffc;
+    z-index:2;
+}
+
+.box{
+    height: 350px;
+    width: 250px;
+    margin: 0px 25px;
+    margin: auto;
+    z-index: 1;
+}
+
+.per-box-wrp:hover{
+    z-index: 10;
+    background-color: #e3e3e3;    
+}
+
+.box img{
+  height: auto;
+    width: auto;
+}
+
+.box .txt{
+    height: 30px;
+    width: 230px; 
+    padding:20px 10px;
+}
+
+.box p{
+  
+}
+
+.box .txt p{
+  
+}
+
+.seller{
+    height: 25px;
+    width: 250px;
+}
+
+.sller-photo{
+    height: 25px;
+    width: 25px;
+    float: left;
+}
+
+.sller-photo img{
+  height: 25px;
+    width: 25px; 
+    border-radius: 45px;
+    display: block;
+    padding: 0px 0px;
+}
+
+.sller-name{
+    width: 160px;
+    height: 15px;
+    float: left;
+    padding: 8px 10px 0px 10px;
+    color: #ffce71;
+}
+.sller-name a{
+    color: #ffbb3a;
+}
+.sller-name a:hover{
+    color: #e09200;
+}
+.itemlogo-type{
+    float: left;
+    height: 16px;
+    width: 16px;  
+    padding-top: px;
+    margin-top: 8px;
+    background-color: #00c784;
+}
+
+.prise-wrap{
+   border-top: 2px dolid #fd3f3f;
+    height: 55px;
+    width: 250px;
+}
+
+.prise{
+    height: 25px;
+    width: 195px; 
+    float: left;
+    margin-top: 30px;
+    
+}
+.prise p{
+    font-size: 15px;
+}
+.add-prise{
+    height: 25px;
+    width: 55px;  
+    float: left;
+    margin-top: 26px;
+ 
+}
+.add-prise button{
+   background-color: #f8ca61; 
+    border: none;
+    height: 25px;
+    width: 55px;
+    border-radius: 4.5px;
+}
+.add-prise button:hover{
+   background-color: #d69911; 
+    color: #e2e2e2;
+    height: 30px;
+    width: 58px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+
+
+/**----end--sec2-nd-sec3---**/
+/**----starttt--sec4444--**/
+
+
+.top-footer{
+    width: 1200px;
+    height:300px; 
+    background-color: #fff;
+    margin: auto;
+}
+.sec44{
+   margin: auto; 
+}
+.sec44 h4{
+    text-transform: uppercase;
+    margin-bottom: 30px;
+}
+.clmn1{
+    height: 230px;
+    width: 560px; 
+    float: left;
+
+}
+.content-logo{
+    height: 230px;
+    width: 200px; 
+    float: left; 
+}
+.content-logo img{
+    height:140px;
+    width: 140px; 
+    margin: 0px 0px 0px 70px;
+}
+    
+.content1{
+    height: 230px;
+    width: 260px; 
+    float: left;
+    padding: 0px 50px;
+}
+.content1 p{
+    margin-bottom: 40px;
+}
+
+.content1 p a{
+    color: #ffce71;
+}
+.content1 p a:hover{
+    color: #3746ff;
+}
+
+
+
+
+
+
+.clmn2{
+    height: 230px;
+    width: 120px; 
+    float: left;
+    margin: auto;
+    padding: 0px 100px;
+}
+
+
+.clmn3{
+    height: 230px;
+    width: 120px; 
+    float: left;
+    padding: 0px 100px;
+    
+}
+
+
+.bottom-menu ul{
+    
+}
+.bottom-menu ul li{
+
+}
+
+.bottom-menu ul li:hover{
+
+}
+.bottom-menu ul li a{
+    display: block;
+    padding:  10px 6px;
+    font-size: 17px;
+} 
+
+
+.bottom-menu ul li a:hover{
+    background-color: #000000;
+    color: aliceblue; 
+    font-size: 17px;
+    padding:  10px 6px;
+}
+
+
+
+
+
+
+
+
+
+.footer{
+    height: 210px;
+    width: 1200px;
+    background-color: #2e2e2e;
+    color: aliceblue;
+    margin: auto;
+}
+.footer-wrppr{
+    height: 130px;
+    width: 1200px;
+    padding-top: 80px;
+}
+.ft-clmn1{
+    height: 210px;
+    width: 300px;
+    float: left;
+}
+
+.ft-clmn2{
+    height: 210px;
+    width: 600px;
+    float: left;
+}
+.ft-clmn2 p{
+    padding: 0px 35px;
+    color: #e2e2e2;
+    font-size: px;
+    line-height: 24px;
+}
+.ft-clmn3{
+    height: 210px;
+    width: 200px;
+    float: right;
+}
+
+
+.share-area ul li{
+    float: left;
+    padding: 0px 15px;
+}
+
+.share-area img{
+    width: 24px;
+    height: 24px;
+
+}
+
+.ft-clmn3 p{
+    float: left;
+    color: #a5a5a5;
+}
+.recommend a{
+    color: #a0a0a0;
+    background-color: #000000;
+    padding-right: 4px 10px;
+}
+.recommend a:hover{
+    color: #1972ff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.main_wrap{
+    width: 100%
+}
+
+.wrap-top{
+    background-color: #000000;
+    box-shadow: -1px -8px 15px 3px;
+}
+
+
+
+
+.main_wrap{
+    width: 100%
+}
+
+.wrap-foot{
+  background-color: #2e2e2e;
+    box-shadow: 0px 5px 15px 3px;
+}
+
